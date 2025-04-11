@@ -13,7 +13,7 @@ I'm a Software Engineering student at **Politecnico di Milano**. I love building
 ---
 
 ## 💼 Experience  
-**Co-founder** – [Sharpee](https://sharpee.io)  
+**Co-founder** – [Sharpee](https://sharpeeinvesting.com)  
 *Sep 2024 – Present*  
 Quantitative portfolio analysis based on long term trends for European investors.
 
