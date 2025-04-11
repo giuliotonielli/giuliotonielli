@@ -6,28 +6,28 @@ I'm a Software Engineering student at **Politecnico di Milano**. I love building
 ---
 
 ## 🛠 Expertise  
-- Software Engineering  
-- Python, C, Java
-- Maths, Physics, Finance
+- 💻 Software Engineering  
+- 🐍 Python, C, Java
+- 🧮 Maths, Physics, Finance
 
 ---
 
 ## 💼 Experience  
-**Co-founder** – [Sharpee](https://sharpeeinvesting.com)  
+🚀 **Co-founder** – [Sharpee](https://sharpeeinvesting.com)  
 *Sep 2024 – Present*  
 Quantitative portfolio analysis based on long term trends for European investors.
 
-**Software Developer** – Starting Finance Club PoliMi  
+💼 **Software Developer** – Starting Finance Club PoliMi  
 *Mar 2024 – Jun 2024*
 
-**Developer** – CYBERSONICS FRC TEAM 103 (USA)  
+🤖 **Developer** – CYBERSONICS FRC TEAM 103 (USA)  
 *Nov 2021 – Apr 2022*
 
 ---
 
 ## 🎯 Personal projects:  
-- Chess engines in Java (1650 elo rating)   
-- Natural selection simulation 
+♟️ Chess engines in Java (1650 elo rating)   
+🐺 Natural selection simulation 
 
 ## 🔗 Links  
 [📧 Email](mailto:tonielligiulio@gmail.com)  
