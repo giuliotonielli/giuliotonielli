@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Giulio
 
-<!--
-**giuliotonielli/giuliotonielli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I'm a Software Engineering student at **Politecnico di Milano**, passionate about **computational science**, **finance**, **physics** and **engineering**. I love building things at the intersection of math, computer science, and finance.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Expertise  
+- Software Engineering  
+- Python, C, Java
+- Maths, Physics, Finance
+
+---
+
+## 💼 Experience  
+**Co-founder** – [Sharpee](https://sharpee.io)  
+*Sep 2024 – Present*  
+Quantitative portfolio analysis based on long term trends for European investors.
+
+**Software Developer** – Starting Finance Club PoliMi  
+*Mar 2024 – Jun 2024*
+
+**Developer** – CYBERSONICS FRC TEAM 103 (USA)  
+*Nov 2021 – Apr 2022*
+
+---
+
+## 🎯 Personal projects:  
+- Chess engines in Java (1650 elo rating)   
+- Natural selection simulation 
+
+## 🔗 Links  
+[📧 Email](mailto:tonielligiulio@gmail.com)  
+[🔗 LinkedIn](https://www.linkedin.com/in/giulio-tonielli-85591a227/)
