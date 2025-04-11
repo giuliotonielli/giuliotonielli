@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Giulio
+# Hi, I'm Giulio
 
 ## 🚀 About Me  
 I'm a Software Engineering student at **Politecnico di Milano**. I love building things at the intersection of math, computer science, and finance.
