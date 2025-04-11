@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Giulio
 
 ## 🚀 About Me  
-I'm a Software Engineering student at **Politecnico di Milano**, passionate about **computational science**, **finance**, **physics** and **engineering**. I love building things at the intersection of math, computer science, and finance.
+I'm a Software Engineering student at **Politecnico di Milano**, passionate about **computational science**, **finance**, and **engineering**. I love building things at the intersection of math, computer science, and finance.
 
 ---
 
