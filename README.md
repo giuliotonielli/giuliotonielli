@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 I'm a Computational Science and Engineering student at **ETH Zurich**. 
-I recently graduated from **Politecnico di Milano** with full marks (110/110 cum Laude).
+I recently graduated from **Politecnico di Milano** with full marks.
 I love building things at the intersection of applied math, computer science, and computational finance.
 ---
 
